@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.overlay{
+  position: absolute;
+  padding: 1em;
+  font-family: serif;
+  font-size: 40px;
+  
+}
+
+h1{color: white;}
+a, a:visited {color: mediumvioletred;}
+
+
+
+
+
+.overlay2{
+  position: absolute;
+  padding: 1em;
+  font-family: serif;
+  font-size: 40px;
+
+}
+
+h2{color: black;}
+.b{color: red;}
+a, a:visited {color: red;}
+
